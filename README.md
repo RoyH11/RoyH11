@@ -66,10 +66,11 @@ I enjoy reading in both languages, and I am always looking for new books to read
 
 ### 💻 Software Projects
 
-- 2024 - [AI Text Summarizer](): ongoing...
+- [AI Text Summarizer]()
+    - *ongoing...*
 
-- 2023 - [Book Recommendation System](https://github.com/RoyH11/MDB_final_project):
-*Built a book recommendation system using collaborative filtering (Neo4j) and content-based filtering (MongoDB),
+- [Book Recommendation System](https://github.com/RoyH11/MDB_final_project)
+    - *Built a book recommendation system using collaborative filtering (Neo4j) and content-based filtering (MongoDB),
 which provides personalized book recommendations based on user preferences. 
 Leveraged an extensive Amazon Books dataset (212k+ books, 3M+ reviews)*
 
@@ -78,25 +79,28 @@ Leveraged an extensive Amazon Books dataset (212k+ books, 3M+ reviews)*
 
 ### 🧬 Academic & Research Projects
 
-- 2025 - Research - [Diabetic Retinopathy Classification](): *ongoing...* 
+- [Diabetic Retinopathy Classification]() 
+    - *ongoing...* 
 
 
-- 2025 - Research - [Retinal Data Processing & Visualization](): 
-*Wrote python scripts to preprocess patient data and created visualization panels for retinal images. 
+- [Retinal Data Processing & Visualization]()
+    - *Wrote python scripts to preprocess patient data and created visualization panels for retinal images. 
 This work enables researchers and ophthalmologists to explore the data more easily and generate new research ideas.*
 
-- 2024 - Final Project - [Lung CT Tumor Segmentation](https://github.com/RoyH11/DLMI_Final_Project): 
-*Created a deep learning model using the U-Net architecture to identify tumor regions in lung CT scans,
+- [Lung CT Tumor Segmentation](https://github.com/RoyH11/DLMI_Final_Project)
+    - *Created a deep learning model using the U-Net architecture to identify tumor regions in lung CT scans,
 reaching a segmentation accuracy (Dice Coefficient) of 0.754 on test data.*
 
-- 2024 - Final Project - [MRI Image Denoising](https://github.com/RoyH11/AML-projects): 
-*Implemented Model Based Deep Learning and Diffusion Posterior Sampling for MRI image denoising, 
+- [MRI Image Denoising](https://github.com/RoyH11/AML-projects)
+    - *Implemented Model Based Deep Learning and Diffusion Posterior Sampling for MRI image denoising, 
 achieving a PSNR of 28.5 dB on the test set.*
 
-- 2024 - Final Project - [Dimension Reduction with SVD on MNIST](https://github.com/RoyH11/MML_Final_Project):
-*Applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset. 
+- [Dimension Reduction with SVD on MNIST](https://github.com/RoyH11/MML_Final_Project)
+    - *Applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset. 
 Compared how different transformation methods affected the image reconstruction quality.*
 
+- [2-D Integral Approximation over a Triangle](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
+    - *Developed a numerical method to approximate the integral of a 2-D function over a triangle.* 
 
 ---
 
