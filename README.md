@@ -1,19 +1,25 @@
-# Hello, I'm Roy Huang! 👋
+# Hi there 👋
 
-**Computer Engineer** and **Full-Stack Developer** with a well-rounded background spanning hardware, software, data science, and AI/ML.
+My name is **Roy Huang**, and I am a **AI/ML Engineer** and **Full-Stack Developer** with a well-rounded background spanning hardware, software, data science, and AI/ML.
 
-I am currently working as a **Research Assistant** at the UT Southwestern Medical Center, focusing on developing deep learning solutions for early diagnosis of retinal diseases.
+💼 I am currently working as a **Research Assistant** at the UT Southwestern Medical Center, 
+focusing on developing deep learning solutions for early diagnosis of retinal diseases.
 
+🔤 I am **fully bilingual** in English and Chinese, 
+this allows me to communicate with 32.6% of the world's population. 
 
+---
 
-## 🎓 Education
+### 🎓 Education
 
-- **MS, Electrical & Computer Engineering** - [University of Iowa](https://uiowa.edu/) - 2024
-- **BS, Electrical & Computer Engineering** - [University of Iowa](https://uiowa.edu/) - 2023
+- **MS, Electrical & Computer Engineering** - University of Iowa - 2024
+- **BS, Electrical & Computer Engineering** - University of Iowa - 2023
 
+<br>
 
+---
 
-## ⚙️ Tech Stack
+### ⚙️ Tech Stack
 
 - Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -23,7 +29,7 @@ I am currently working as a **Research Assistant** at the UT Southwestern Medica
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
 
-- Frontend: 
+- Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -48,44 +54,33 @@ I am currently working as a **Research Assistant** at the UT Southwestern Medica
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
+<br>
 
 
-## 💻 Software Projects
+---
 
-- [AI Text Summarizer]()
+### 💻 Software Projects
 
+- [AI Text Summarizer](): ongoing...
 
+<br>
 
-## 🧬 Research Projects
+---
 
-- [Diabetic Retinopathy Classification](): 
+### 🧬 Research Projects
+
+- [Diabetic Retinopathy Classification](): ongoing... 
 
 
 - [Retinal Data Processing & Visualization](): Wrote python scripts to preprocess patient data and created visualization panels for retinal images, helping researchers and ophthalmologists to better understand the data and brainstorm research ideas.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SimpleITK](https://img.shields.io/badge/SimpleITK-4664A2?style=flat&logo=simpleitk&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
 
 - [Lung CT Tumor Segmentation](https://github.com/RoyH11/DLMI_Final_Project): Constructed a U-Net model for lung CT tumor segmentation, achieving 0.754 Dice score on our test set. 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
 
 - [MRI Image Denoising](https://github.com/RoyH11/AML-projects): Implemented Model Based Deep Learning and Diffusion Posterior Sampling for MRI image denoising, achieving a PSNR of 28.5 dB on the test set. 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
+<br>
 
-## 📰 Publications
+---
 
-
-## 🔗 Contact
-
-- **LinkedIn:** [linkedin.com/in/royhuang11](https://linkedin.com/in/royhuang11)
-- **Email:** [ruoqiuhuang@gmail.com](mailto:ruoqiuhuang@gmail.com)
-
+### 📰 Publications
+- Coming soon! 
