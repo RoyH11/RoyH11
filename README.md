@@ -64,6 +64,11 @@ I enjoy reading in both languages, and I am always looking for new books to read
 
 - [AI Text Summarizer](): ongoing...
 
+- [Book Recommendation System](https://github.com/RoyH11/MDB_final_project):
+Built a book recommendation system using collaborative filtering (Neo4j) and content-based filtering (MongoDB),
+which provides personalized book recommendations based on user preferences. 
+Leveraged an extensive Amazon Books dataset (212k+ books, 3M+ reviews)
+
 
 ---
 
