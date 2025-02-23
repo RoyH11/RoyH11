@@ -72,11 +72,17 @@ I enjoy reading in both languages, and I am always looking for new books to read
 - [Diabetic Retinopathy Classification](): ongoing... 
 
 
-- [Retinal Data Processing & Visualization](): Wrote python scripts to preprocess patient data and created visualization panels for retinal images, helping researchers and ophthalmologists to better understand the data and brainstorm research ideas.
+- [Retinal Data Processing & Visualization](): 
+Wrote python scripts to preprocess patient data and created visualization panels for retinal images. 
+This work enables researchers and ophthalmologists to explore the data more easily and generate new research ideas.
 
-- [Lung CT Tumor Segmentation](https://github.com/RoyH11/DLMI_Final_Project): Constructed a U-Net model for lung CT tumor segmentation, achieving 0.754 Dice score on our test set. 
+- [Lung CT Tumor Segmentation](https://github.com/RoyH11/DLMI_Final_Project): 
+Created a deep learning model using the U-Net architecture to identify tumor regions in lung CT scans,
+reaching a segmentation accuracy (Dice Coefficient) of 0.754 on test data.
 
-- [MRI Image Denoising](https://github.com/RoyH11/AML-projects): Implemented Model Based Deep Learning and Diffusion Posterior Sampling for MRI image denoising, achieving a PSNR of 28.5 dB on the test set. 
+- [MRI Image Denoising](https://github.com/RoyH11/AML-projects): 
+Implemented Model Based Deep Learning and Diffusion Posterior Sampling for MRI image denoising, 
+achieving a PSNR of 28.5 dB on the test set. 
 
 
 ---
