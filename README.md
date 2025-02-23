@@ -15,7 +15,6 @@ this allows me to communicate with 32.6% of the world's population.
 - **MS, Electrical & Computer Engineering** - University of Iowa - 2024
 - **BS, Electrical & Computer Engineering** - University of Iowa - 2023
 
-<br>
 
 ---
 
@@ -54,7 +53,6 @@ this allows me to communicate with 32.6% of the world's population.
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-<br>
 
 
 ---
@@ -63,7 +61,6 @@ this allows me to communicate with 32.6% of the world's population.
 
 - [AI Text Summarizer](): ongoing...
 
-<br>
 
 ---
 
@@ -78,7 +75,6 @@ this allows me to communicate with 32.6% of the world's population.
 
 - [MRI Image Denoising](https://github.com/RoyH11/AML-projects): Implemented Model Based Deep Learning and Diffusion Posterior Sampling for MRI image denoising, achieving a PSNR of 28.5 dB on the test set. 
 
-<br>
 
 ---
 
