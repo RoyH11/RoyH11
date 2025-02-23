@@ -1,13 +1,14 @@
 # Hi there 👋
 
-My name is **Roy Huang**, and I am an **AI/ML Engineer** and **Full-Stack Developer** 
+My name is ***Roy Huang***, and I am an ***AI/ML Engineer*** and *****Full-Stack Developer*** 
 with a well-rounded background spanning hardware, software, data science, and AI/ML.
 
-💼 I am currently working as a **Research Assistant** at the UT Southwestern Medical Center, 
-focusing on developing **deep learning** solutions for early diagnosis of retinal diseases.
+💼 I am currently working as a ***Research Assistant*** at the UT Southwestern Medical Center, 
+focusing on developing ***Deep Learning*** solutions for early diagnosis of retinal diseases.
 
-🔤 I am **fully bilingual** in English and Chinese, 
-this allows me to communicate with 32.6% of the world's population. 
+🔤 I am ***Fully Bilingual*** in English and Chinese, 
+this allows me to communicate with 2.4 billion people worldwide. 
+I enjoy reading in both languages, and I am always looking for new books to read.
 
 ---
 
@@ -37,6 +38,7 @@ this allows me to communicate with 32.6% of the world's population.
 
 - Backend:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 
