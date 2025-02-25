@@ -1,15 +1,12 @@
 # Hi there 👋
 
-
-My name is **Roy Huang**, and I am an **AI/ML Engineer** and **Full-Stack Developer**
+> My name is **Roy Huang**, and I am an **AI/ML Engineer** and **Full-Stack Developer**
 with a well-rounded background spanning hardware, software, data science, mathematics, and AI/ML research.
-
-
-💼 I am currently working as a **Research Assistant** at the UT Southwestern Medical Center, 
+> 
+> 💼 I am currently working as a **Research Assistant** at the UT Southwestern Medical Center, 
 focusing on developing **Deep Learning** solutions for early diagnosis of retinal diseases.
-
-
-📜 I am **Fully Bilingual** in English and Chinese; 
+> 
+> 📜 I am **Fully Bilingual** in English and Chinese; 
 this allows me to communicate with 2.4 billion people worldwide. 
 I enjoy reading in both languages, and I am always looking for new books to read.
 
