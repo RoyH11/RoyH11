@@ -5,7 +5,7 @@ with a well-rounded background spanning hardware, software, data science, mathem
 
 > 💼 I am currently working as a **Research Assistant** at the UT Southwestern Medical Center, 
 focusing on developing **Deep Learning** solutions for early diagnosis of retinal diseases.
-
+> 
 > 📜 I am **Fully Bilingual** in English and Chinese; 
 this allows me to communicate with 2.4 billion people worldwide. 
 I enjoy reading in both languages, and I am always looking for new books to read.
@@ -64,10 +64,10 @@ I enjoy reading in both languages, and I am always looking for new books to read
 ### 💻 Software Projects
 
 - [AI Text Summarizer](https://github.com/RoyH11/ai_summarizer)
-    - *ongoing...*
+    > *ongoing...*
 
 - [Book Recommendation System](https://github.com/RoyH11/MDB_final_project)
-    - *Built a book recommendation system using collaborative filtering (Neo4j) and content-based filtering (MongoDB),
+    > *Built a book recommendation system using collaborative filtering (Neo4j) and content-based filtering (MongoDB),
 which provides personalized book recommendations based on user preferences. 
 Leveraged an extensive Amazon Books dataset (212k+ books, 3M+ reviews)*
 
@@ -77,26 +77,26 @@ Leveraged an extensive Amazon Books dataset (212k+ books, 3M+ reviews)*
 ### 🧬 Academic & Research Projects
 
 - [Diabetic Retinopathy Classification]() 
-    - *ongoing...* 
+    > *ongoing...* 
 
 - [Retinal Data Processing & Visualization]()
-    - *Wrote python scripts to preprocess patient data and created visualization panels for retinal images. 
+    > *Wrote python scripts to preprocess patient data and created visualization panels for retinal images. 
 This work enables researchers and ophthalmologists to explore the data more easily and generate new research ideas.*
 
 - [Lung CT Tumor Segmentation](https://github.com/RoyH11/DLMI_Final_Project)
-    - *Created a deep learning model using the U-Net architecture to identify tumor regions in lung CT scans,
+    > *Created a deep learning model using the U-Net architecture to identify tumor regions in lung CT scans,
 reaching a segmentation accuracy (Dice Coefficient) of 0.754 on test data.*
 
 - [MRI Image Denoising](https://github.com/RoyH11/AML-projects)
-    - *Implemented Model Based Deep Learning and Diffusion Posterior Sampling for MRI image denoising, 
+    > *Implemented Model Based Deep Learning and Diffusion Posterior Sampling for MRI image denoising, 
 achieving a PSNR of 28.5 dB on the test set.*
 
 - [Dimension Reduction with SVD on MNIST](https://github.com/RoyH11/MML_Final_Project)
-    - *Applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset. 
+    > *Applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset. 
 Compared how different transformation methods affected the image reconstruction quality.*
 
 - [2-D Integral Approximation Algorithm](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
-    - *Developed a numerical method to approximate the integral of a 2-D function over a triangle.* 
+    > *Developed a numerical method to approximate the integral of a 2-D function over a triangle.* 
 
 ---
 
