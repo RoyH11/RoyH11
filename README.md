@@ -82,7 +82,6 @@ Leveraged an extensive Amazon Books dataset (212k+ books, 3M+ reviews)*
 - [Diabetic Retinopathy Classification]() 
     - *ongoing...* 
 
-
 - [Retinal Data Processing & Visualization]()
     - *Wrote python scripts to preprocess patient data and created visualization panels for retinal images. 
 This work enables researchers and ophthalmologists to explore the data more easily and generate new research ideas.*
@@ -99,7 +98,7 @@ achieving a PSNR of 28.5 dB on the test set.*
     - *Applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset. 
 Compared how different transformation methods affected the image reconstruction quality.*
 
-- [2-D Integral Approximation over a Triangle](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
+- [2-D Integral Approximation Algorithm](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
     - *Developed a numerical method to approximate the integral of a 2-D function over a triangle.* 
 
 ---
