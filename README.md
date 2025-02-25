@@ -66,7 +66,7 @@ I enjoy reading in both languages, and I am always looking for new books to read
 
 ### 💻 Software Projects
 
-- [AI Text Summarizer]()
+- [AI Text Summarizer](https://github.com/RoyH11/ai_summarizer)
     - *ongoing...*
 
 - [Book Recommendation System](https://github.com/RoyH11/MDB_final_project)
