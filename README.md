@@ -5,7 +5,7 @@ with a well-rounded background spanning hardware, software, data science, mathem
 
 > 💼 I am currently working as a **Research Assistant** at the UT Southwestern Medical Center, 
 focusing on developing **Deep Learning** solutions for early diagnosis of retinal diseases.
-> 
+
 > 📜 I am **Fully Bilingual** in English and Chinese; 
 this allows me to communicate with 2.4 billion people worldwide. 
 I enjoy reading in both languages, and I am always looking for new books to read.
@@ -63,40 +63,49 @@ I enjoy reading in both languages, and I am always looking for new books to read
 
 ### 💻 Software Projects
 
+- [What's in Your Fridge?]()
+    > *A web app that helps users find recipes based on the ingredients they have at home.
+    Ongoing work...*
+
 - [AI Text Summarizer](https://github.com/RoyH11/ai_summarizer)
-    > *ongoing...*
+    > *A simple web app that summarizes text using the OpenAI API.
+    Built with Flask, React, and OpenAI API.*
 
 - [Book Recommendation System](https://github.com/RoyH11/MDB_final_project)
-    > *Built a book recommendation system using collaborative filtering (Neo4j) and content-based filtering (MongoDB),
-which provides personalized book recommendations based on user preferences. 
-Leveraged an extensive Amazon Books dataset (212k+ books, 3M+ reviews)*
+    > *A personalized book recommendation system using collaborative filtering (Neo4j) and content-based filtering (MongoDB).
+    Data: Amazon Books dataset (212k+ books, 3M+ reviews) from Kaggle.*
 
+- Weather Box
+    > *Senior design project: a weather station that collects and displays weather data in real-time.
+    Physical device can displays information on an LCD screen, send alarms via text message, and upload data to a web app.
+    Users can remotely control the device, view data, and set alarms via the web app.* 
 
 ---
 
 ### 🧬 Academic & Research Projects
 
-- [Diabetic Retinopathy Classification]() 
-    > *ongoing...* 
+- Diabetic Retinopathy Classification
+    > *A deep learning model for classifying diabetic retinopathy from retinal images (AIREADi dataset). 
+    RETFound encoder and XGBoost classifier. Ongoing work...*
 
-- [Retinal Data Processing & Visualization]()
-    > *Wrote python scripts to preprocess patient data and created visualization panels for retinal images. 
-This work enables researchers and ophthalmologists to explore the data more easily and generate new research ideas.*
+- [Retinal Data Processing & Visualization](https://github.com/RoyH11/Image_Display_Panel)
+    > *Python scripts for retinal image data cleaning and visualization. 
+    This work enables researchers and ophthalmologists to explore the data more easily and generate new research ideas.*
 
 - [Lung CT Tumor Segmentation](https://github.com/RoyH11/DLMI_Final_Project)
-    > *Created a deep learning model using the U-Net architecture to identify tumor regions in lung CT scans,
-reaching a segmentation accuracy (Dice Coefficient) of 0.754 on test data.*
+    > *A U-Net model for segmenting lung tumors in CT scans.
+    Reached a segmentation accuracy (Dice Coefficient) of 0.754 on test data.*
 
 - [MRI Image Denoising](https://github.com/RoyH11/AML-projects)
-    > *Implemented Model Based Deep Learning and Diffusion Posterior Sampling for MRI image denoising, 
-achieving a PSNR of 28.5 dB on the test set.*
+    > *Implemention of 2 methods for MRI image denoising: Model Based Deep Learning and Diffusion Posterior Sampling. 
+    Achieved PSNR of 28.5 dB on the test set.*
 
 - [Dimension Reduction with SVD on MNIST](https://github.com/RoyH11/MML_Final_Project)
-    > *Applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset. 
-Compared how different transformation methods affected the image reconstruction quality.*
+    > *mathematics of machine learning case study:applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset; 
+    compared how different transformation methods affected the image reconstruction quality.*
 
 - [2-D Integral Approximation Algorithm](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
-    > *Developed a numerical method to approximate the integral of a 2-D function over a triangle.* 
+    > *Numerical method case study: approximated the integral of a 2-D function over a triangle.* 
 
 ---
 
