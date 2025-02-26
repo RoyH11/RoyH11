@@ -96,16 +96,16 @@ I enjoy reading in both languages, and I am always looking for new books to read
     > *A U-Net model for segmenting lung tumors in CT scans.
     Reached a segmentation accuracy (Dice Coefficient) of 0.754 on test data.*
 
-- MRI Image Denoising [Code](https://github.com/RoyH11/AML-projects)
-    > *Implemention of 2 methods for MRI image denoising: Model Based Deep Learning and Diffusion Posterior Sampling. 
-    Achieved PSNR of 28.5 dB on the test set.*
-
 - Dimension Reduction with SVD on MNIST [Code](https://github.com/RoyH11/MML_Final_Project)
     > *Mathematics of Machine Learning case study: applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset; 
     compared how different transformation methods affected the image reconstruction quality.*
 
 - 2-D Integral Approximation Algorithm [Code](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
     > *Numerical Method case study: approximated the integral of a 2-D function over a triangle.* 
+
+- MRI Image Denoising [Code](https://github.com/RoyH11/AML-projects)
+    > *Implemention of 2 methods for MRI image denoising: Model Based Deep Learning and Diffusion Posterior Sampling. 
+    Achieved PSNR of 28.5 dB on the test set.*
 
 ---
 
