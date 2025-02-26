@@ -101,11 +101,11 @@ I enjoy reading in both languages, and I am always looking for new books to read
     Achieved PSNR of 28.5 dB on the test set.*
 
 - [Dimension Reduction with SVD on MNIST](https://github.com/RoyH11/MML_Final_Project)
-    > *mathematics of machine learning case study:applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset; 
+    > *Mathematics of Machine Learning case study: applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset; 
     compared how different transformation methods affected the image reconstruction quality.*
 
 - [2-D Integral Approximation Algorithm](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
-    > *Numerical method case study: approximated the integral of a 2-D function over a triangle.* 
+    > *Numerical Method case study: approximated the integral of a 2-D function over a triangle.* 
 
 ---
 
