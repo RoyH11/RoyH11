@@ -63,7 +63,7 @@ I enjoy reading in both languages, and I am always looking for new books to read
 
 ### 💻 Software Projects
 
-- What's in Your Fridge? [Code]()
+- What's in Your Fridge? [Code](https://github.com/RoyH11/whats_in_your_fridge)
     > *A web app that helps users find recipes based on the ingredients they have at home.
     Ongoing work...*
 
@@ -82,10 +82,10 @@ I enjoy reading in both languages, and I am always looking for new books to read
 
 ---
 
-### 🧬 Academic & Research Projects
+### 🧬 AI/ML Projects
 
-- Diabetic Retinopathy Classification
-    > *A deep learning model for classifying diabetic retinopathy from retinal images (AIREADi dataset). 
+- Diabetic Retinopathy Classification [Code](https://github.com/RoyH11/xgboost_project)
+    > *Classification on diabetic retinopathy (AIREADi dataset). Automatic detecting patient health condition from retinal images. 
     RETFound encoder and XGBoost classifier. Ongoing work...*
 
 - Retinal Data Processing & Visualization [Code](https://github.com/RoyH11/Image_Display_Panel)
