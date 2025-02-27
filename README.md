@@ -68,7 +68,7 @@ I enjoy reading in both languages, and I am always looking for new books to read
     Ongoing work...*
 
 - AI Text Summarizer [Code](https://github.com/RoyH11/ai_summarizer)
-    > *A simple web app that summarizes text using the OpenAI API.
+    > *A simple web app that summarizes text. 
     Built with Flask, React, and OpenAI API.*
 
 - Book Recommendation System [Code](https://github.com/RoyH11/MDB_final_project)
