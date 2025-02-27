@@ -1,4 +1,4 @@
-# Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=RoyH11&color=blue" alt="Profile Views"/>
+# Hi there 👋 &nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=RoyH11&color=blue)
 
 My name is **Roy Huang**, and I am an **AI/ML Engineer** and **Full-Stack Developer**
 with a well-rounded background spanning hardware, software, data science, mathematics, and AI/ML research.
