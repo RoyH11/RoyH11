@@ -63,6 +63,7 @@ I enjoy reading in both languages, and I am always looking for new books to read
 ![Conda](https://img.shields.io/badge/Conda-352D39?style=flat&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 
 
