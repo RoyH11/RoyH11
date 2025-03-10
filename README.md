@@ -71,19 +71,19 @@ I enjoy reading in both languages, and I am always looking for new books to read
 
 ### 💻 Software Projects
 
-- What's in Your Fridge? [Code](https://github.com/RoyH11/whats_in_your_fridge)
+- **What's in Your Fridge?** [Code](https://github.com/RoyH11/whats_in_your_fridge)
     > *A web app that helps users find recipes based on the ingredients they have at home.
     Ongoing work...*
 
-- AI Text Summarizer [Code](https://github.com/RoyH11/ai_summarizer)
+- **AI Text Summarizer** [Code](https://github.com/RoyH11/ai_summarizer)
     > *A simple web app that summarizes text. 
     Built with Flask, React, and OpenAI API.*
 
-- Book Recommendation System [Code](https://github.com/RoyH11/MDB_final_project)
+- **Book Recommendation System** [Code](https://github.com/RoyH11/MDB_final_project)
     > *A personalized book recommendation system using collaborative filtering (Neo4j) and content-based filtering (MongoDB).
     Data: Amazon Books dataset (212k+ books, 3M+ reviews) from Kaggle.*
 
-- Weather Box
+- **Weather Box**
     > *Senior design project: a weather station that collects and displays weather data in real-time.
     Physical device can displays information on an LCD screen, send alarms via text message, and upload data to a web app.
     Users can remotely control the device, view data, and set alarms via the web app.* 
@@ -92,26 +92,26 @@ I enjoy reading in both languages, and I am always looking for new books to read
 
 ### 🧬 AI/ML Projects
 
-- Diabetic Retinopathy Classification [Code](https://github.com/RoyH11/xgboost_project)
+- **Diabetic Retinopathy Classification** [Code](https://github.com/RoyH11/xgboost_project)
     > *Classification on diabetic retinopathy (AIREADi dataset). Automatic detecting patient health condition from retinal images. 
     RETFound encoder and XGBoost classifier. Ongoing work...*
 
-- Retinal Data Processing & Visualization [Code](https://github.com/RoyH11/Image_Display_Panel)
+- **Retinal Data Processing & Visualization** [Code](https://github.com/RoyH11/Image_Display_Panel)
     > *Python scripts for retinal image data cleaning and visualization. 
     This work enables researchers and ophthalmologists to explore the data more easily and generate new research ideas.*
 
-- Lung CT Tumor Segmentation [Code](https://github.com/RoyH11/DLMI_Final_Project)
+- **Lung CT Tumor Segmentation** [Code](https://github.com/RoyH11/DLMI_Final_Project)
     > *A U-Net model for segmenting lung tumors in CT scans.
     Reached a segmentation accuracy (Dice Coefficient) of 0.754 on test data.*
 
-- Dimension Reduction with SVD on MNIST [Code](https://github.com/RoyH11/MML_Final_Project)
+- **Dimension Reduction with SVD on MNIST** [Code](https://github.com/RoyH11/MML_Final_Project)
     > *Mathematics of Machine Learning case study: applied Singular Value Decomposition (SVD) to reduce the dimensionality of the MNIST dataset; 
     compared how different transformation methods affected the image reconstruction quality.*
 
-- 2-D Integral Approximation Algorithm [Code](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
+- **2-D Integral Approximation Algorithm** [Code](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
     > *Numerical Method case study: approximated the integral of a 2-D function over a triangle.* 
 
-- MRI Image Denoising [Code](https://github.com/RoyH11/AML-projects)
+- **MRI Image Denoising** [Code](https://github.com/RoyH11/AML-projects)
     > *Implemention of 2 methods for MRI image denoising: Model Based Deep Learning and Diffusion Posterior Sampling. 
     Achieved PSNR of 28.5 dB on the test set.*
 
