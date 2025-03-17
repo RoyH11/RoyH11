@@ -3,7 +3,7 @@
 My name is **Roy Huang**, and I am an **AI/ML Engineer** and **Full-Stack Developer**
 with a well-rounded background spanning hardware, software, data science, mathematics, and AI/ML research.
 
-> 💼 I am currently working as a **Research Assistant** at the UT Southwestern Medical Center, 
+> 💼 I worked as a **Research Assistant** at the UT Southwestern Medical Center and the University of Iowa, 
 focusing on developing **Deep Learning** solutions for early diagnosis of retinal diseases.
 
 > 📜 I am **Fully Bilingual** in English and Chinese; 
@@ -72,8 +72,7 @@ I enjoy reading in both languages, and I am always looking for new books to read
 ### 💻 Software Projects
 
 - **What's in Your Fridge?** [Code](https://github.com/RoyH11/whats_in_your_fridge)
-    > *A web app that helps users find recipes based on the ingredients they have at home.
-    Ongoing work...*
+    > *A web app that helps users find recipes based on the ingredients they have at home.*
 
 - **AI Text Summarizer** [Code](https://github.com/RoyH11/ai_summarizer)
     > *A simple web app that summarizes text. 
