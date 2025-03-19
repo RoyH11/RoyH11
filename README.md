@@ -24,7 +24,7 @@ I enjoy reading in both languages, and I am always looking for new books to read
 ### ⚙️ Tech Stack Highlights
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,flask,postgres,pytorch,git,linux,docker" height="50">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,flask,postgres,pytorch,git,linux,docker" height="65">
 </p>
 
 
