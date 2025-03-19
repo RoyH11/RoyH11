@@ -72,9 +72,19 @@ I enjoy reading in both languages, and I am always looking for new books to read
 ### 💻 Software Projects
 
 - **What's in Your Fridge?** [Code](https://github.com/RoyH11/whats_in_your_fridge)
-    > *A web app that helps users find recipes based on the ingredients they have at home.*
+    > *A web app that helps users find recipes based on the ingredients they have at home.
+    Built with Flask, React, PostgreSQL, OpenAI API, and MobileNetV2.*
+    >
+    > *User can upload photos of their grocery items, and the app will identify the items using MobileNetV2.
+    The app will then suggest recipes based on the identified items using OpenAI API.*
 
-- **AI Text Summarizer** [Code](https://github.com/RoyH11/ai_summarizer)
+- **Task Tracker** [Code](https://github.com/RoyH11/Note-Task-Manager)
+    > *A web app that helps users manage their tasks and notes. 
+    Built with Flask, React, and SQLAlchemy.*
+    >
+    > *Users can create, update, and delete tasks and notes, and filter them by status.*
+
+- **AI Text Summarizer**
     > *A simple web app that summarizes text. 
     Built with Flask, React, and OpenAI API.*
 
