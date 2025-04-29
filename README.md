@@ -54,17 +54,17 @@ I am always looking for new books to read in both languages.
 
 ### 🧬 AI/ML Projects
 
-- [Diabetic Retinopathy Classification](https://github.com/RoyH11/xgboost_project)
+- Diabetic Retinopathy Classification [Code](https://github.com/RoyH11/xgboost_project)
     
-- [Retinal Data Processing & Visualization](https://github.com/RoyH11/Image_Display_Panel)
+- Retinal Data Processing & Visualization [Code](https://github.com/RoyH11/Image_Display_Panel)
     
-- [Lung CT Tumor Segmentation](https://github.com/RoyH11/DLMI_Final_Project)
+- Lung CT Tumor Segmentation [Code](https://github.com/RoyH11/DLMI_Final_Project)
     
-- [Dimension Reduction with SVD on MNIST](https://github.com/RoyH11/MML_Final_Project)
+- Dimension Reduction with SVD on MNIST [Code](https://github.com/RoyH11/MML_Final_Project)
     
-- [2-D Integral Approximation Algorithm](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
+- 2-D Integral Approximation Algorithm [Code](https://github.com/RoyH11/Numerical_Analysis_Final_Project)
 
-- [MRI Image Denoising](https://github.com/RoyH11/AML-projects)
+- MRI Image Denoising [Code](https://github.com/RoyH11/AML-projects)
 
 ---
 
