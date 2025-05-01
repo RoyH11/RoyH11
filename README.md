@@ -14,6 +14,3 @@
 ## 📊 GitHub Stats
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=royh11&theme=dark) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royh11&layout=compact&theme=dark&hide=Jupyter%20Notebook,css,scss,html)
-
-## 💻 Software Project Highlights
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=royh11&repo=whats-in-your-fridge)
