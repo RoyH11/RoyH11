@@ -6,11 +6,11 @@
 📄 [View my Resume](./Roy_Huang_Resume.pdf) \
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/royhuang11/)
 
-## ⚙️ Tech Stack Highlights
+# ⚙️ Tech Stack Highlights
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,cpp,react,flask,postgres,pytorch,docker,linux,git" height="65">
 </p>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=royh11) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royh11&layout=compact&hide=Jupyter%20Notebook,css,scss,html)
