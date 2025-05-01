@@ -15,7 +15,9 @@
 </p>
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=RoyH11&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=royh11)](https://git.io/streak-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royh11&layout=donut&hide=Jupyter%20Notebook,css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 💻 Software Projects
 
