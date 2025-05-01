@@ -12,5 +12,5 @@
 </p>
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=royh11&theme=dark) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royh11&layout=compact&theme=dark&hide=Jupyter%20Notebook,css,scss,html)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=royh11) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royh11&layout=compact&hide=Jupyter%20Notebook,css,scss,html)
