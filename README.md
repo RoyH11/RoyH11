@@ -1,4 +1,4 @@
-# 👋 About Me
+## 👋 About Me
 
 👨🏻‍💻 Full-Stack Developer\
 🤖 AI/ML Engineer\
@@ -8,18 +8,18 @@
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/royhuang11/)
 
 
-# ⚙️ Tech Stack Highlights
+## ⚙️ Tech Stack Highlights
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,cpp,react,flask,postgres,pytorch,docker,linux,git" height="65">
 </p>
 
-# 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=royh11)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royh11&layout=donut&hide=Jupyter%20Notebook,css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=royh11&theme=highcontrast)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royh11&layout=donut&theme=highcontrast&hide=Jupyter%20Notebook,css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# 💻 Software Projects
+## 💻 Software Projects
 
 - **What's in Your Fridge?** [Code](https://github.com/RoyH11/whats_in_your_fridge)
     > *A web app that helps users find recipes based on the ingredients they have at home.
@@ -41,7 +41,7 @@
     Users can remotely control the device, view data, and set alarms via the web app.* 
 
 
-# 🧬 AI/ML Projects
+## 🧬 AI/ML Projects
 
 - Diabetic Retinopathy Classification [Code](https://github.com/RoyH11/xgboost_project)
     
