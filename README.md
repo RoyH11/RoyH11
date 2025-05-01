@@ -1,4 +1,6 @@
-# 👋 About Me &nbsp;&nbsp;&nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=RoyH11&color=blue) 
+# 👋 About Me 
+![Profile Views](https://komarev.com/ghpvc/?username=RoyH11&color=blue) 
+
 👨🏻‍💻 Full-Stack Developer\
 🤖 AI/ML Engineer\
 🌐 Fully Bilingual in English and Chinese
