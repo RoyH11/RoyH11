@@ -15,8 +15,8 @@
 </p>
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=royh11&theme=highcontrast)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royh11&layout=donut&theme=highcontrast&hide=Jupyter%20Notebook,css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=royh11&theme=dark) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royh11&layout=donut&theme=dark&hide=Jupyter%20Notebook,css,scss,html)
 
 
 ## 💻 Software Projects
