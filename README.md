@@ -5,7 +5,8 @@
 🤖 AI/ML Engineer\
 🌐 Fully Bilingual in English and Chinese
 
-📄 [View my Resume](./Roy_Huang_Resume.pdf) \
+📄 [View my Resume](https://royh11.github.io/assets/resume/Roy_Huang_Resume.pdf
+) \
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/royhuang11/)
 
 # ⚙️ Tech Stack Highlights
