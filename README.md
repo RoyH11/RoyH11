@@ -3,7 +3,7 @@
 
 👨🏻‍💻 Full-Stack Developer\
 🤖 AI/ML Engineer\
-🌐 Fully Bilingual in English and Chinese
+🌐 Fully Bilingual in Chinese (Mandarin) and English
 
 📄 [View my Resume](https://royh11.github.io/assets/resume/Roy_Huang_Resume.pdf
 ) \
