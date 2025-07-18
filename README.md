@@ -11,7 +11,7 @@
 
 # ⚙️ Tech Stack Highlights
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,react,django,spring,pytorch,postgres,mongodb,docker,aws,linux,git&perline=7" >
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,react,django,spring,pytorch,postgres,mongodb,docker,aws,linux,git&perline=7&theme=light" >
 </p>
 
 # 📊 GitHub Stats
