@@ -1,17 +1,16 @@
 # 👋 About Me 
 ![Profile Views](https://komarev.com/ghpvc/?username=RoyH11&color=blue) 
 
-- Full-Stack Developer
-- AI/ML Engineer
+- Software Integration Engineer @ [Brock Solutions](https://www.brocksolutions.com/)
 - Fully Bilingual in Chinese (Mandarin) and English
 
-📄 [View my Resume](https://royh11.github.io/assets/resume/2025_august/Roy_Huang_Resume_New.pdf) \
+<!-- 📄 [View my Resume](https://royh11.github.io/assets/resume/2025_august/Roy_Huang_Resume_New.pdf) \-->
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/royhuang11/) \
 ⚡ [My LeetCode Profile](https://leetcode.com/u/rhuang_h/)
 
 # ⚙️ Tech Stack Highlights
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,react,django,spring,pytorch,postgres,mongodb,docker,aws,linux,git&perline=7" >
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,cs,react,django,spring,postgres,mongodb,pytorch,azure,docker,linux,git&perline=5" >
 </p>
 
 # 📊 GitHub Stats
