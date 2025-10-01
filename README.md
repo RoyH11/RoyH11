@@ -9,9 +9,7 @@
 ⚡ [My LeetCode Profile](https://leetcode.com/u/rhuang_h/)
 
 # ⚙️ Tech Stack Highlights
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,cs,react,django,spring,postgres,mongodb,pytorch,azure,docker,linux,git&perline=5" >
-</p>
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,cs,react,django,spring,postgres,mongodb,pytorch,azure,docker,linux,git&perline=5" >
 
 # 📊 GitHub Stats
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=royh11&theme=vision-friendly-dark) <br>
