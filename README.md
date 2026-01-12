@@ -1,7 +1,7 @@
 # 👋 About Me 
 ![Profile Views](https://komarev.com/ghpvc/?username=RoyH11&color=blue) 
 
-👨🏻‍💻 Software Developer @ [Brock Solutions](https://www.brocksolutions.com/) \
+👨🏻‍💻 Software Developer / Software Integration Engineer @ [Brock Solutions](https://www.brocksolutions.com/) \
 🔡 Fully Bilingual in Chinese (Mandarin) and English 
 
 <!-- 📄 [View my Resume](https://royh11.github.io/assets/resume/2025_august/Roy_Huang_Resume_New.pdf) \-->
