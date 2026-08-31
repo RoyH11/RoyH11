@@ -5,7 +5,7 @@
 🔡 Fully Bilingual in Chinese (Mandarin) and English 
 
 <!-- 📄 [View my Resume](https://royh11.github.io/assets/resume/2025_august/Roy_Huang_Resume_New.pdf) \-->
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/royhuang11/) \
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/royhuang11/) 
 <!--⚡ [My LeetCode Profile](https://leetcode.com/u/rhuang_h/) -->
 
 # 🔬 Current Focus
